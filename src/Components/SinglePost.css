@@ -1,0 +1,13 @@
+.singlePost__container{
+	margin: 0;
+}
+
+.singlePost__id{
+	font-size: 11px;
+	color: #fff;
+	background-color: #222;
+	padding: 4px 5px 5px 4px;
+	border-radius: 3px;
+	width: auto;
+	display: inline-block;
+}
